@@ -24,9 +24,9 @@ righe = [lettere[:4]]
 colonne = [lettere[0]]
 
 
-#verifica
-print(lettere)
-print('-----------------')
+#verifica: togliere i commenti per verificare
+#print(lettere)
+#print('-----------------')
 #print(righe)
 
 
@@ -46,7 +46,7 @@ def generale():
     print('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
     
 
-
+#Funzione da implementare in futuro
 #def inp():
     #e, f = map(int, input('Scegliere coordinate x, y tra 0 e 3'))
     #z, x = map(int, input('Scegliere coordinate x, y tra 0 e 3 un altra volta'))
